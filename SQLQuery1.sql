@@ -1,3 +1,4 @@
+
 ----------- Class 1 Assignment PART 1--------
 --DROP DATABASE IF EXISTS MTTDB;
 --CREATE DATABASE MTTDB;
